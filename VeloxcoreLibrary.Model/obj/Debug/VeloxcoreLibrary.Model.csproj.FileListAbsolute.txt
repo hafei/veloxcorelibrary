@@ -1,0 +1,5 @@
+c:\users\vinit\documents\visual studio 2012\Projects\VeloxcoreLibrary\VeloxcoreLibrary.Model\bin\Debug\VeloxcoreLibrary.Model.dll
+c:\users\vinit\documents\visual studio 2012\Projects\VeloxcoreLibrary\VeloxcoreLibrary.Model\bin\Debug\VeloxcoreLibrary.Model.pdb
+c:\users\vinit\documents\visual studio 2012\Projects\VeloxcoreLibrary\VeloxcoreLibrary.Model\obj\Debug\VeloxcoreLibrary.Model.csprojResolveAssemblyReference.cache
+c:\users\vinit\documents\visual studio 2012\Projects\VeloxcoreLibrary\VeloxcoreLibrary.Model\obj\Debug\VeloxcoreLibrary.Model.dll
+c:\users\vinit\documents\visual studio 2012\Projects\VeloxcoreLibrary\VeloxcoreLibrary.Model\obj\Debug\VeloxcoreLibrary.Model.pdb
